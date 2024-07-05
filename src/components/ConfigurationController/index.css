@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.CCContainer {
+  background-color: #475569;
+  height: 35vh;
+}
+
+.layoutHead {
+  font-size: 55px;
+  margin-bottom: 25px;
+}
+
+.check {
+  font-size: 28px;
+  font-weight: 500;
+  margin-left: 6px;
+  margin-bottom: 10px;
+}
+
+.InnerCC {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: 10%;
+  color: #ffffff;
+}
+
+.box {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
